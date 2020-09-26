@@ -8,4 +8,4 @@ INPUT_DATA = "/home/murtaza/myGithub/Training-Machine-Learning-Models/src/input/
 
 NEW_DATA = "/home/murtaza/myGithub/Training-Machine-Learning-Models/src/input/train_with_folds.csv"
 
-MODEL_OUTPUT = "/home/murtaza/myGithub/Training-Machine-Learning-Models/src/models"
+MODEL_OUTPUT = "/home/murtaza/myGithub/Training-Machine-Learning-Models/src/trained_models"

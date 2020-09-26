@@ -2,7 +2,7 @@
 
 <p align="center">
 
-In this repository, three most widely known algorithms are trained on the well known dataset available on kaggle <b> cat in the dat </b>. 
+In this repository, three most widely known algorithms are trained on the well known dataset available on kaggle, i.e. <b> cat in the dat </b>. 
 
 1. Logistic Regression
 

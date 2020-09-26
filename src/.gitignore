@@ -138,8 +138,8 @@ dmypy.json
 cython_debug/
 
 # input and models
-input/
-models/
+#input/
+#models/
 
 # data files
 *.csv

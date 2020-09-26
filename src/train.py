@@ -1,3 +1,4 @@
+import os
 import joblib
 import argparse
 import pandas as pd
@@ -77,7 +78,7 @@ def run(df, fold, args, encoder_, model_):
     # print auc 
     if fold==0:
         print(f"\nModel-->{args.model}")
-        print(f"\nEncoder-->{args.encoder}")
+        print(f"Encoder-->{args.encoder}")
     print(f"Fold = {fold}, AUC = {auc}") 
 
     joblib.dump(
