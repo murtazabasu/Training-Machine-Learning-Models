@@ -1,0 +1,22 @@
+# Training Machine Learning Models
+
+<p align="center">
+<img src="https://github.com/murtazabasu/Coordinating-Two-UR5-Robots-for-a-Pick-and-Place-Task/blob/master/media/ur5_coord.gif" width="480">
+
+In this repository, three most widely known algorithms are trained on the well known dataset available on kaggle <b> cat in the dat </b>. 
+
+1. Logistic Regression
+
+2. Random Forest Classifier
+
+3. XGBoost
+
+#### Criterion for using this repository:
+- Download the repository 
+  ```
+  $ git clone https://github.com/murtazabasu/Training-Machine-Learing-Models.git
+  ```
+- Run the training file with the model and encoder of your choice for e.g.
+  ```
+  $ python train.py --model XGboost --encoder one_hot_encoding
+  ```
