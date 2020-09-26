@@ -1,7 +1,6 @@
 # Training Machine Learning Models
 
 <p align="center">
-<img src="https://github.com/murtazabasu/Coordinating-Two-UR5-Robots-for-a-Pick-and-Place-Task/blob/master/media/ur5_coord.gif" width="480">
 
 In this repository, three most widely known algorithms are trained on the well known dataset available on kaggle <b> cat in the dat </b>. 
 
